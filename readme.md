@@ -16,5 +16,5 @@ A customizable and responsive image slider built with React. This project demons
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/custom-image-slider.git](https://github.com/rupeshpatil27/React-ImageSlider.git
+   git clone https://github.com/rupeshpatil27/React-ImageSlider.git
    cd imageslider
